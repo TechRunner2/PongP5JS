@@ -1,0 +1,15 @@
+{
+  "name": "pongp5",
+  "version": "1.0.0",
+  "description": "Pong game in p5",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Brandon Behar",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "electron": "^1.7.10",
+    "p5": "^0.5.16"
+  }
+}
